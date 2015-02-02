@@ -56,10 +56,6 @@
 		<data>
 		VWj8uik2cvgeIBjOn4FrwCC/ZxY=
 		</data>
-		<key>Headers/Realm.h</key>
-		<data>
-		N7Jr/8pw0V4jiPzyIDBCnulguXY=
-		</data>
 		<key>Info.plist</key>
 		<data>
 		PZlODODhMsB32tZdzmlo+O0mVR8=
@@ -158,10 +154,6 @@
 		<key>Headers/HASchema.h</key>
 		<data>
 		VWj8uik2cvgeIBjOn4FrwCC/ZxY=
-		</data>
-		<key>Headers/Realm.h</key>
-		<data>
-		N7Jr/8pw0V4jiPzyIDBCnulguXY=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>

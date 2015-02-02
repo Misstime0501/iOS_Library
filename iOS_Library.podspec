@@ -78,7 +78,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/Misstime0501/iOS_Library.git", :commit => "8c47f0c83f79e34cdb32bf27fa8fdaf0d3eca502" }
+  s.source       = { :git => "https://github.com/Misstime0501/iOS_Library.git", :commit => "b84d7c8e21f42b80859770372a5398ce75306c3b" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
